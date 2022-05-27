@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 pokemon tipo fuego
+=======
+el mas pro de los poquemones 
+>>>>>>> ca51906915e5fbeaed6b32ff418ee2c367bf24b9

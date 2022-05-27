@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+fue modificado por FG
+=======
 fue modificado por Hilario
+>>>>>>> 04b92f79943cdaa472c79979da40467a90af0a62
